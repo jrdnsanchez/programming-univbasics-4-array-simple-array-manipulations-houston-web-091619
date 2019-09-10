@@ -13,3 +13,4 @@ end
 def using_shift(my_favorite_cities)
   im_so_over_this_city = my_favorite_cities.shift
 end
+def 
